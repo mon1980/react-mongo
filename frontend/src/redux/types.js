@@ -1,0 +1,13 @@
+export const REGISTER = 'REGISTER';
+export const LOGIN = 'LOGIN';
+export const LOGOUT = 'LOGOUT';
+export const GET_ALL_PRODUCTS = 'GET_ALL_PRODUCTS';
+export const ADD_CART = 'ADD_CART';
+export const AGREGAR_PRODUCTO = 'AGREGAR_PRODUCTO';
+export const AGREGAR_PRODUCTO_EXITO = 'AGREGAR_PRODUCTO_EXITO';
+export const AGREGAR_PRODUCTO_ERROR = 'AGREGAR_PRODUCTO_ERROR';
+export const DELETE_PRODUCT = 'DELETE_PRODUCT';
+
+
+
+

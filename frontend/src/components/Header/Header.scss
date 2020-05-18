@@ -1,0 +1,22 @@
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    a {
+        all: unset;
+        padding: 0.5em;
+        cursor: pointer;
+    }
+    .anticon-shopping-cart {
+        font-size: 5rem;
+    }
+
+
+
+
+}

@@ -1,0 +1,40 @@
+.products{
+
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; 
+}
+
+
+.product{
+    padding: 0.5em;
+    margin: 0.5em;
+    border-radius: 0.5em;
+    width: 24em;
+  
+}
+
+img {
+    
+    display:block;
+    border-radius: 0.5em;
+    margin:auto;
+}
+
+.nombreProducto{
+
+    text-align: center;
+    color: black;
+    font-size: 15px,
+
+}
+
+.precio{
+    text-align: center;
+    margin-top: 10px;
+    color:black;
+
+}
+
+
+
